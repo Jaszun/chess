@@ -152,8 +152,8 @@ public class View {
 
         String input = (String) optionPane.showInputDialog(
                 null,
-                "Chose game length",
-                "Chose game length",
+                "Choose game length",
+                "Choose game length",
                 JOptionPane.QUESTION_MESSAGE,
                 null,
                 choices,
